@@ -3,8 +3,9 @@
 <head>
 <style>
 p {
-  border: 2px solid powderblue;
-  margin: 50px;
+  border: 20px solid black;
+  margin: 1000px;
+  object-position: center;
 }
 h1{
 	position: center;
