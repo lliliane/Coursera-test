@@ -3,9 +3,10 @@
 <head>
 <style>
 p {
-  border: 20px solid black;
+  border: 10px solid black;
   margin: 70px;
   object-position: center;
+  background-color: violet;
 }
 h1{
 	object-position: center;
