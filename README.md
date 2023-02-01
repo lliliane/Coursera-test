@@ -6,6 +6,6 @@
     <title>our menu</title>
   </head>
   <body>
-    <h1>Hello, world!</h1>
+    <h1>our menu </h1>
   </body>
 </html>
