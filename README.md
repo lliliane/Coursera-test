@@ -4,11 +4,13 @@
 <style>
 p {
   border: 20px solid black;
-  margin: 100px;
+  margin: 70px;
   object-position: center;
 }
 h1{
-	position: center;
+	object-position: center;
+	font-size: 20px;
+	font: bold;
 }
 </style>
 </head>
