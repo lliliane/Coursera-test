@@ -6,6 +6,9 @@ p {
   border: 2px solid powderblue;
   margin: 50px;
 }
+h1{
+	position: center;
+}
 </style>
 </head>
 <body>
