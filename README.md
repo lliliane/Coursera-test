@@ -4,7 +4,7 @@
 <style>
 p {
   border: 20px solid black;
-  margin: 1000px;
+  margin: 100px;
   object-position: center;
 }
 h1{
