@@ -25,6 +25,9 @@
         align-items: center;
         border-radius: 5px 0 0 5px;
       }
+      h1{
+        text-align: center;
+      }
     </style> 
   </head> 
   <body> 
