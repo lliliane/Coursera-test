@@ -1,36 +1,45 @@
 <!DOCTYPE html> 
-<html> 
-  <head> 
-    <style> 
-      /* CSS to style the menu items */ 
-      .menu-item { 
-        padding: 20px; 
-        background-color: #f2f2f2; 
-        border: 1px solid #ccc; 
-        margin-bottom: 10px; 
-        text-align: center; 
-      } 
-    </style> 
-  </head> 
-  <body> 
-    <h1>Our Menu</h1> 
-    <!-- Menu item 1 --> 
-    <div class="menu-item"> 
-      <h3>Pizza</h3> 
-      <p>A delicious combination of tomato sauce, cheese, and toppings on a crispy crust.</p> 
-      <p>Price: $15</p> 
-    </div> 
-    <!-- Menu item 2 --> 
-    <div class="menu-item"> 
-      <h3>Burger</h3> 
-      <p>A juicy beef patty topped with cheese, lettuce, and tomato, served on a sesame seed bun.</p> 
-      <p>Price: $12</p> 
-    </div> 
-    <!-- Menu item 3 --> 
-    <div class="menu-item"> 
-      <h3>Salad</h3> 
-      <p>A fresh mix of greens, veggies, and toppings, topped with your choice of dressing.</p> 
-      <p>Price: $10</p> 
-    </div> 
-  </body> 
+<html>
+  <head>
+    <style>
+      .menu {
+        width: 500px;
+        margin: 0 auto;
+        text-align: center;
+      }
+      .section {
+        display: inline-block;
+        width: 33.33%;
+        float: left;
+        text-align: left;
+        padding: 20px;
+      }
+      .section h2 {
+        text-align: right;
+        margin-right: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="menu">
+      <div class="section">
+        <h2>Beef</h2>
+        <p>Beef Broccoli stir fry</p>
+        <p>Beef and Mushroom stew</p>
+        <p>Beef Tacos</p>
+      </div>
+      <div class="section">
+        <h2>Sushi</h2>
+        <p>California Roll</p>
+        <p>Tuna Roll</p>
+        <p>Salmon Sashimi</p>
+      </div>
+      <div class="section">
+        <h2>Chicken</h2>
+        <p>Chicken Alfredo</p>
+        <p>BBQ Chicken</p>
+        <p>Teriyaki Chicken</p>
+      </div>
+    </div>
+  </body>
 </html>
