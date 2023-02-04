@@ -1,54 +1,96 @@
-
-
-<!DOCTYPE html> 
-<html> 
-  <head> 
-    <style> 
-      /* CSS to style the menu items */ 
-      .menu-item { 
-        padding: 20px; 
-        background-color: #f2f2f2; 
-        border: 1px solid #ccc; 
-        margin-bottom: 10px; 
-        text-align: center; 
-      } 
-      .ITEM-box {
-        width: 70px;
-        height: 70px;
-        background-color: black;
-        color: #fff;
-        position: relative;
-        top: 60;
-        left: : 50;
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .menu-container {
         display: flex;
-        justify-content: center;
-        align-items: center;
-        border-radius: 5px 0 0 5px;
+        align-items: left;
+        flex-wrap: wrap;
+        height: 500%;
+        justify-content: space-between ;
+        padding-left: 180px;
+        padding-right: 180px;
+        margin-right: 40px;
+
+      }
+      .menu-section {
+        width: 30%;
+        text-align: center;
+        padding: 20px;
+        box-sizing:border-box;
+        background-color: #f2f2f2;
+        border-style: solid;
+        border-width: 2px;
+        border-color: black;
+        height: 150px;
+
+
+      }
+      
+      @media only screen and (max-width: 768px) {
+        .menu-section {
+          width: 100%;
+        }
       }
       h1{
         text-align: center;
       }
-    </style> 
-  </head> 
-  <body> 
-    <h1>Our Menu</h1> 
-    <!-- Menu item 1 --> 
-    <div class="menu-item"> 
-      <div class="ITEM-box">chicken</div>
-      <p>A delicious combination of tomato sauce, cheese, and toppings on a crispy crust.</p> 
-      <p>Price: $15</p> 
-    </div> 
-    <!-- Menu item 2 --> 
-    <div class="menu-item"> 
-      <div class="ITEM-box">BEEF</div>
-      <p>A juicy beef patty topped with cheese, lettuce, and tomato, served on a sesame seed bun.</p> 
-      <p>Price: $12</p> 
-    </div> 
-    <!-- Menu item 3 --> 
-    <div class="menu-item"> 
-      <div class="ITEM-box">sushi</div> 
-      <p>A fresh mix of greens, veggies, and toppings, topped with your choice of dressing.</p> 
-      <p>Price: $10</p> 
-    </div> 
-  </body> 
-</html> 
+      .ITEM-box2{
+        width: 120px;
+        height: 30px;
+        border: 2px solid black;
+        float: right;
+        margin-right: 0;
+        background-color:pink;
+        position: relative;
+        bottom: 21px;
+        left: 21px;
+      }
+         .ITEM-box3{
+        width:120px;
+        height: 30px;
+        border: 2px solid black;
+        float: right;
+        margin-right: 0;
+        background-color:blue;
+        position: relative;
+        bottom: 21px;
+        left: 21px;
+      }
+         .ITEM-box1{
+        width: 120px;
+        height: 30px;
+        border: 2px solid black;
+        float: right;
+        margin-right: 0;
+        background-color:yellow;
+        padding-right: 0;
+        position: relative;
+        bottom: 21px;
+        left: 21px;
+
+      }
+      p{
+        text-align: left;
+      }
+
+       </style>
+  </head>
+  <body>
+    <h1>Our Menu</h1>
+    <div class="menu-container">
+      <div class="menu-section">
+        <div class="ITEM-box3">pizza</div>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc euismod, ipsum vel tincidunt convallis, sem ipsum tincidunt nibh, sit amet blandit metus metus eget dui. Sed ut dui in neque facilisis auctor. Nunc gravida libero vel nisl rhoncus.</p>
+      </div>
+      <div class="menu-section">
+        <div class="ITEM-box2">chicken</div>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc euismod, ipsum vel tincidunt convallis, sem ipsum tincidunt nibh, sit amet blandit metus metus eget dui. Sed ut dui in neque facilisis auctor. Nunc gravida libero vel nisl rhoncus.</p>
+      </div>
+      <div class="menu-section">
+      <div class="ITEM-box1">burger</div>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc euismod, ipsum vel tincidunt convallis, sem ipsum tincidunt nibh, sit amet blandit metus metus eget dui. Sed ut dui in neque facilisis auctor. Nunc gravida libero vel nisl rhoncus.</p>
+      </div>
+    </div>
+  </body>
+</html
