@@ -6,7 +6,7 @@
         display: flex;
         align-items: left;
         flex-wrap: wrap;
-        height: 500%;
+        height: 1000%;
         justify-content: space-between ;
         padding-left: 180px;
         padding-right: 180px;
