@@ -29,7 +29,7 @@
       
       @media only screen and (max-width: 768px) {
         .menu-section {
-          width: 100%;
+          width: 75%;
         }
       }
       h1{
