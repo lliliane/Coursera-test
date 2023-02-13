@@ -8,8 +8,8 @@
         flex-wrap: wrap;
         height: 1000%;
         justify-content: space-between ;
-        padding-left: 180px;
-        padding-right: 180px;
+        padding-left: 80px;
+        padding-right: 80px;
         margin-right: 40px;
 
       }
