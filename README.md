@@ -10,7 +10,7 @@
         padding-left: 10px;
         padding-right: 10px;
         margin-right: 40px;
-        width: 75%;
+        width: 150%;
 
       }
       .menu-section {
