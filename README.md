@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
   <head>
     <style>
       .menu-container {
@@ -93,4 +93,3 @@
       </div>
     </div>
   </body>
-</html>
