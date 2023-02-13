@@ -10,7 +10,7 @@
         padding-left: 10px;
         padding-right: 10px;
         margin-right: 40px;
-        width: 150%;
+        width: 100%;
 
       }
       .menu-section {
@@ -22,7 +22,7 @@
         border-style: solid;
         border-width: 2px;
         border-color: black;
-        height: 100px;
+        height: 150px;
 
 
       }
