@@ -26,7 +26,7 @@
 
       }
       
-      @media only screen and (max-width: 968px) {
+      @media only screen and (max-width: 768px) {
         .menu-section {
           width: 75%;
         }
@@ -71,6 +71,7 @@
       }
       p{
         text-align: left;
+        size: 0.5px;
       }
 
        </style>
