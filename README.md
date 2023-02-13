@@ -26,7 +26,7 @@
 
       }
       
-      @media only screen and (max-width: 768px) {
+      @media only screen and (max-width: 968px) {
         .menu-section {
           width: 75%;
         }
