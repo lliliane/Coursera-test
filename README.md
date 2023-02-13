@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<html>
   <head>
     <style>
       .menu-container {
@@ -22,7 +21,7 @@
         border-style: solid;
         border-width: 2px;
         border-color: black;
-        height: 50px;
+        height: 150px;
 
 
       }
