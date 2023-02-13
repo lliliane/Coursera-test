@@ -81,7 +81,7 @@
     <div class="menu-container">
       <div class="menu-section">
         <div class="ITEM-box3">pizza</div>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc euismod, ipsum vel tincidunt convallis, sem ipsum tincidunt nibh, sit amet blandit metus metus eget dui. Sed ut dui in neque facilisis auctor. Nunc gravida libero vel nisl rhoncus.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc euismod, ipsum vel tincidunt.</p>
       </div>
       <div class="menu-section">
         <div class="ITEM-box2">chicken</div>
