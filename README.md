@@ -14,7 +14,7 @@
 
       }
       .menu-section {
-        width: 10%;
+        width: 30%;
         text-align: center;
         padding: 20px;
         box-sizing:border-box;
