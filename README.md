@@ -10,7 +10,7 @@
         justify-content: space-between ;
         padding-left: 1px;
         padding-right: 1px;
-        margin-right: 40px;
+        margin-right: 4px;
 
       }
       .menu-section {
