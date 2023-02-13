@@ -81,15 +81,15 @@
     <div class="menu-container">
       <div class="menu-section">
         <div class="ITEM-box3">pizza</div>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc euismod, ipsum vel tincidunt convallis, sem ipsum tincidunt nibh.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc euismod, ipsum vel tincidunt convallis, sem ipsum tincidunt.</p>
       </div>
       <div class="menu-section">
         <div class="ITEM-box2">chicken</div>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc euismod, ipsum vel tincidunt convallis, sem ipsum tincidunt nibh.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc euismod, ipsum vel tincidunt convallis, sem ipsum tincidunt.</p>
       </div>
       <div class="menu-section">
       <div class="ITEM-box1">burger</div>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc euismod, ipsum vel tincidunt convallis, sem ipsum tincidunt nibh.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc euismod, ipsum vel tincidunt convallis, sem ipsum tincidunt.</p>
       </div>
     </div>
   </body>
