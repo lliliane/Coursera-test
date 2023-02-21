@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -66,7 +66,7 @@
     <div class="collapse navbar-collapse" id="collapsibleNavbar">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="#"><p>Chicken</p></a>
+          <a class="nav-link" href="#"><p>Chicken</p> <p2>It's important to use a food thermometer to be sure all of the food has reached a high enough temperature to destroy foodborne bacteria. All poultry should reach a safe minimum internal temperature of 165 °F as measured with a food thermometer</p2></a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#"><p>Beef</p></a>
@@ -86,4 +86,3 @@
 
           </div>
 </body>
-</html>
