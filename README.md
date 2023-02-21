@@ -80,7 +80,7 @@
   <br>
            
         
-              <p class="text-center"><b>Our Menu</b>> It's important to use a food thermometer to be sure all of the food has reached a high enough temperature to destroy foodborne bacteria. All poultry should reach a safe minimum internal temperature of 165 °F as measured with a food thermometer</p>
+              <p class="text-center"><b>Our Menu</b> It's important to use a food thermometer to be sure all of the food has reached a high enough temperature to destroy foodborne bacteria. All poultry should reach a safe minimum internal temperature of 165 °F as measured with a food thermometer</p>
 
           <div class="container col-xs-12">
 
