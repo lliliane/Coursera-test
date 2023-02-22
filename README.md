@@ -1,5 +1,5 @@
 
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
    
@@ -17,5 +17,6 @@ for (String name : names) {
 </script>
 </head>
 <body>
-
+<h1>check the console</h1>
 </body>
+<html>
