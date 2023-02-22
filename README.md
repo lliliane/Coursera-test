@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
    
-<script type="text/javascript">
+<script>
 	
 String[] names = {"John", "Alice", "Jenny", "Bob"};
 
