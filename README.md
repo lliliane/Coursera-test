@@ -16,7 +16,7 @@
     </script>
     <style>
     body {
-  background-image: url('https://media.istockphoto.com/id/1018141890/photo/two-empty-wine-glasses-sitting-in-a-restaurant-on-a-warm-sunny-afternoon.jpg?s=612x612&w=0&k=20&c=OccJv1oKWSTDqJ6Irw7iW1NEbL0muU2ylqP3EOhOyEg=');
+  background-image: url('https://www.shutterstock.com/image-photo/old-wood-table-top-smoke-dark-1114338836');
 }
     	.tiles {
   display: flex;
@@ -74,12 +74,12 @@
      <header>
         <h1>RESTAURANT WEB</h1>
     </header>
-    
+    <h> click on SPECIAL to see the menu</h>
     <div class="tiles">
   <a href="#" class="tile" id="menu">Menu</a>
   <a href="https://lliliane.github.io/sp/" class="tile" id="specials" onClick="showRandomCategory()">Specials</a>
   <a href="#" class="tile" id="map">Map</a>
 </div>
-<h> click on SPECIAL to see the menu</h>
+
   </body>
 </html>
