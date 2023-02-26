@@ -67,6 +67,8 @@
         h{
         padding-bottom: 30px;
         color: orange;
+        size: 10px;
+        text-align: center;
         }
     </style>
     
@@ -77,7 +79,7 @@
     </header>
     
     
-    <h><br> click on SPECIAL to see the menu</br></h>
+    <h> click on SPECIAL to see the menu items </h>
     <div class="tiles">
   <a href="#" class="tile" id="menu">Menu</a>
   <a href="https://lliliane.github.io/sp/" class="tile" id="specials" onClick="showRandomCategory()">Specials</a>
