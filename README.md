@@ -55,7 +55,7 @@
     
     <div class="tiles">
   <a href="#" class="tile" id="menu">Menu</a>
-  <a href="file:///C:/Users/pc/Desktop/coursera-tes/d.html" class="tile" id="specials" onClick="showRandomCategory()">Specials</a>
+  <a href="#" class="tile" id="specials" onClick="showRandomCategory()">Specials</a>
   <a href="#" class="tile" id="map">Map</a>
 </div>
   </body>
