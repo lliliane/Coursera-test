@@ -15,11 +15,15 @@
 
     </script>
     <style>
+    body {
+  background-image: url('https://media.istockphoto.com/id/1018141890/photo/two-empty-wine-glasses-sitting-in-a-restaurant-on-a-warm-sunny-afternoon.jpg?s=612x612&w=0&k=20&c=OccJv1oKWSTDqJ6Irw7iW1NEbL0muU2ylqP3EOhOyEg=');
+}
     	.tiles {
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
+  
 }
 
 .tile {
@@ -59,6 +63,9 @@
             font-size: 36px;
             font-weight: normal;
             text-transform: uppercase;
+        }
+        h{
+        padding-bottom: 30px;
         }
     </style>
     
