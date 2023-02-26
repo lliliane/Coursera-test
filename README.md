@@ -58,5 +58,6 @@
   <a href="https://lliliane.github.io/ASS3/" class="tile" id="specials" onClick="showRandomCategory()">Specials</a>
   <a href="#" class="tile" id="map">Map</a>
 </div>
+<h1> click on SPECIAL to see the menu</h1>
   </body>
 </html>
