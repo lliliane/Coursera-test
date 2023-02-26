@@ -47,17 +47,32 @@
 #map {
   background-color: #40b747;
 }
-
+ header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        h1 {
+            margin: 0;
+            font-size: 36px;
+            font-weight: normal;
+            text-transform: uppercase;
+        }
     </style>
     
   </head>
   <body>
+     <header>
+        <h1>RESTAURANT WEB</h1>
+    </header>
     
     <div class="tiles">
   <a href="#" class="tile" id="menu">Menu</a>
   <a href="https://github.com/lliliane/sp" class="tile" id="specials" onClick="showRandomCategory()">Specials</a>
   <a href="#" class="tile" id="map">Map</a>
 </div>
-<h1> click on SPECIAL to see the menu</h1>
+<h> click on SPECIAL to see the menu</h>
   </body>
 </html>
