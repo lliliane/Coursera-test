@@ -70,7 +70,7 @@
     
     <div class="tiles">
   <a href="#" class="tile" id="menu">Menu</a>
-  <a href="https://github.com/lliliane/sp" class="tile" id="specials" onClick="showRandomCategory()">Specials</a>
+  <a href="https://lliliane.github.io/sp/" class="tile" id="specials" onClick="showRandomCategory()">Specials</a>
   <a href="#" class="tile" id="map">Map</a>
 </div>
 <h> click on SPECIAL to see the menu</h>
